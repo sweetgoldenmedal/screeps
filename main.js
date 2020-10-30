@@ -1,5 +1,5 @@
 console.log("Reading in role.harvester.js")
-var roleHarvester = require('role.harvester.js');
+var roleHarvester = require('role.harvester');
 console.log("Reading in role.upgrader.js")
 var roleUpgrader = require('role.upgrader.js');
 console.log("Reading in role.builder.js")
