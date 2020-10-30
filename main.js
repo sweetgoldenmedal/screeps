@@ -1,9 +1,9 @@
-console.log("Reading in role.harvester.js")
+console.log("Reading in role.harvester")
 var roleHarvester = require('role.harvester');
-console.log("Reading in role.upgrader.js")
-var roleUpgrader = require('role.upgrader.js');
-console.log("Reading in role.builder.js")
-var roleBuilder = require('role.builder.js');
+console.log("Reading in role.upgrader")
+var roleUpgrader = require('role.upgrader');
+console.log("Reading in role.builder")
+var roleBuilder = require('role.builder');
 
 var harvesterCount = 1
 var upgraderCount = 1
