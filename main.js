@@ -6,7 +6,7 @@ console.log("Reading in role.builder")
 var roleBuilder = require('role.builder');
 
 var harvesterCount = 1
-var upgraderCount = 1
+var upgraderCount = 2
 var builderCount = 1
 
 module.exports.loop = function () {
